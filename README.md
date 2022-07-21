@@ -1,3 +1,5 @@
 # Food-identification-expert-system
-Identification of different types of food using Expert System in Prolog
-Requirements:
+
+## Requirements:
+## Ubuntu or Windows OS 
+## SWI-Prolog platform
